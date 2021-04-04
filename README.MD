@@ -1,5 +1,7 @@
 <h1>MiBand 4 Font Customize</h1>
 
+![Screenshot Test](https://github.com/vanduc2514/mb4-font-custom/blob/master/rsz_img_20210404_152428.jpg)
+
 <h2>**Requirements for edit font**</h2>
 
 **Python 3**
