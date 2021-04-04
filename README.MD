@@ -23,10 +23,11 @@ Pack the font (must have bmp and latin folder at root)
 <h2>Install</h2>
 1. Pack the font (must have bmp and latin folder at root)
     
-    mi4font.py pack cusom_vi_1.9.3.tf
+    mi4font.py pack cusom_vi_v1.9.3.tf
 
 2. Copy the packed font to your phone
 3. Use Gadgetbridge, open the copied font by Gadgetbridge
+
 https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge/
 4. Install and wait for the flash to complete
 
