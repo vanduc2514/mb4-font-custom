@@ -2,7 +2,7 @@
 
 ![Screenshot Test](https://github.com/vanduc2514/mb4-font-custom/blob/master/rsz_img_20210404_152428.jpg)
 
-<h2>**Requirements for edit font**</h2>
+<h2>Requirements for edit font</h2>
 
 **Python 3**
     
@@ -12,7 +12,7 @@
 
     sudo apt-get install python3-pil
 
-<h2>**Pack / unpack font**</h2>
+<h2>Pack / unpack font</h2>
 
 Unpack the font (leave font at project root)
 
